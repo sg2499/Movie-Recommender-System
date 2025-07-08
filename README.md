@@ -26,7 +26,7 @@ The app uses metadata such as cast, crew, genre, keywords, and overview to calcu
 ├── README.md                     # Project documentation
 ```
 
-> ⚠️ **Large files like `similarity_matrix.pkl`, `movies_list_with_posters.pkl`, `tmdb_5000_movies.csv`, and `tmdb_5000_credits.csv` are not included in this repository due to GitHub size limits.**  
+> ⚠️ **Large files like `similarity_matrix.pkl`, `tmdb_5000_movies.csv`, and `tmdb_5000_credits.csv` are not included in this repository due to GitHub size limits.**  
 > 📥 **[Download them from this Google Drive link](https://drive.google.com/drive/folders/1k3bYd6Z3LmgPLBFiUb3o27Oq-cgz-cYE?usp=drive_link)**
 
 ---
