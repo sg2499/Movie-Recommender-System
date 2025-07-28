@@ -68,6 +68,12 @@ These files were processed and combined to create the `.pkl` files used in the a
 
 ---
 
+## 📸 UI Screenshot
+
+<img src="Movie_Recommender_System_App.png" width="100%" alt="Movie Recommender System UI"/>
+
+---
+
 ## 💻 Setup Instructions
 
 ### 🔧 Clone the Repository
