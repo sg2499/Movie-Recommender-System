@@ -17,7 +17,7 @@ The app uses metadata such as cast, crew, genre, keywords, and overview to calcu
 ```
 📦 Movie-Recommender-System/
 ├── app.py                         # Main Streamlit app
-├── movies_list_with_posters.pkl  # Pickled movie dataframe with poster URLs (Not included)
+├── movies_list_with_posters.pkl  # Pickled movie dataframe with poster URLs
 ├── similarity_matrix.pkl         # Pickled similarity matrix (Not included)
 ├── tmdb_5000_movies.csv          # Raw movies metadata (Not included)
 ├── tmdb_5000_credits.csv         # Raw cast and crew metadata (Not included)
